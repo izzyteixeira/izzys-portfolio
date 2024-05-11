@@ -1,2 +1,2 @@
-# izzys-portfolio
-Personal website built to showcase my development experience 💫
+# Izzy's Portfolio
+Personal website built to showcase my web development experience 💫
