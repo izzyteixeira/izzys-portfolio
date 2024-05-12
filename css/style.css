@@ -1,1 +1,11 @@
+/*** 彡★ IZZY WAS HERE — MADE BY IZZY 彡★  ***/
 
+@import url('constants.css');
+
+body {
+  background: var(--bluestarbg);
+  background-attachment: fixed;
+  color: black;
+  font-family: var(--cursive, "Comic Sans MS", "Comic Sans", cursive);
+  font-size: 100%;
+}
