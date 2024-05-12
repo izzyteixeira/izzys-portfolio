@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Comic Sans";
+    src: url("https://dopestar.neocities.org/fonts/comic-sans.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "WD";
+    src: url("https://dopestar.neocities.org/fonts/wingdings.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gothic";
+    src: url("https://dopestar.neocities.org/fonts/ms-gothic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Magtis";
+    src: url("https://dopestar.neocities.org/fonts/magtis.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Moonscape";
+    src: url("https://dopestar.neocities.org/fonts/moonscape.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Waku Waku";
+    src: url("https://dopestar.neocities.org/fonts/mini-wakuwaku.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Pixana";
+    src: url("https://dopestar.neocities.org/fonts/pixana.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Basiic";
+    src: url(https://cinni.net/fonts/basiic.ttf) format("truetype");
+}
+
+@font-face {
+   font-family: "CRT";
+   src: url("https://dietchola.neocities.org/font_folder/bestten-dot-webfont.woff") format("truetype");
+}
+
+@font-face {
+font-family: "Rainyhearts";
+src: url("https://dietchola.neocities.org/font_folder/rainyhearts-webfont.woff") format("truetype");
+}
+
+
+@font-face {
+   font-family: "Heinz";
+   src: url(https://dietchola.neocities.org/font_folder/heinzheinrich-regular-webfont.woff);
+}
+
+:root {
+  --starbg: url(https://dopestar.neocities.org/images/backgrounds/star.gif);
+  --sunmoonbg: url(https://dopestar.neocities.org/images/backgrounds/sunmoon.gif);
+  --boardbg: url(https://dopestar.neocities.org/images/backgrounds/motherboardtint.png);
+  --bluestarbg: url(https://dopestar.neocities.org/images/backgrounds/bluestar.gif);
+  --treehousebg: url(https://dopestar.neocities.org/images/backgrounds/treehouse.png);
+  --treebg: url(https://dopestar.neocities.org/images/backgrounds/tree.png);
+  --yellowspiralbg: url(https://dopestar.neocities.org/images/backgrounds/yellowspiral.gif);
+  --purplestarbg: url(https://dopestar.neocities.org/images/backgrounds/purplestar.gif);
+  --rain: url(https://dopestar.neocities.org/images/gifs/rain.gif);
+  --pink: #FF6B99;
+  --lavender: #F0DDFF;
+  --yellow: #FCE677;
+  --light-gray: #DDD;
+  --dark-gray: #5D5C51;
+  --dark-red: #ED0707;
+  --cursive: "Comic Sans", "Comic Sans MS", cursive;
+  --wingdings: "WD", "Wingdings", wingdings;
+  --gothic: "MS UI Gothic", "Gothic", monospace;
+  --magtis: "Magtis", serif;
+  --moonscape: "Moonscape", serif;
+  --wakuwaku: "Waku Waku", "Comic Sans", cursive;
+  --pixana: "Pixana", "MS UI Gothic", "Gothic";
+  --basiic: "Basiic", "MS UI Gothic", "Gothic";
+  --crt: "CRT", "MS UI Gothic", "Gothic";
+  --rainyhearts: "Rainyhearts", "MS UI Gothic", "Gothic";
+  --heinz: "Heinz", "Times New Roman";
+}
