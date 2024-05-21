@@ -3,9 +3,9 @@
 @import url('https://raw.githubusercontent.com/izzyteixeira/izzys-portfolio/main/css/style.css');
 
 body {
-  background: var(--bluestarbg);
+  background: blue;
   background-attachment: fixed;
-  color: black;
+  color: red;
   font-family: var(--cursive, "Comic Sans MS", "Comic Sans", cursive);
   font-size: 100%;
 }
